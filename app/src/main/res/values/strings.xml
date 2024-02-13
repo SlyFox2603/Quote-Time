@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quote Time</string>
+    <string name="app_tagline">Quotes when you need them</string>
+    <string name="txt_btn_title">Choose the type of quote you want</string>
+    <string name="btn_motivate">Motivational Quote</string>
+    <string name="btn_inspire">Inspirational Quote</string>
+    <string name="txt_title_motivate">Your Motivational Quote</string>
+    <string name="btn_regen_quote">Get Another Quote</string>
+    <string name="txt_title_inspire">Your Inspirational Quote</string>
+    <string name="btn_back">Back</string>
+</resources>
